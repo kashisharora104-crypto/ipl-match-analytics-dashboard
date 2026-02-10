@@ -1,3 +1,6 @@
+## Dashboard Preview
+![Dashboard](Dashboard.png)
+
 # 🏏 IPL Match Analytics Dashboard — MI vs CSK
 
 ## Project Overview
